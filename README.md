@@ -1,2 +1,2 @@
-# Minitalk
+
 # Push-Swap
